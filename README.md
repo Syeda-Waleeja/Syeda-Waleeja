@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I’m currently working on <br>frontend development<br>🤝 I’m looking to collaborate on <br>e-commerce sites, portfolio designs, fully functional sites, blog sites<br>🙋‍♂️ I’m looking for help with <br>Mern stack and cybersecurity<br>🌱 I’m currently learning <br>backend development <br>💬 Ask me about <br>frontend designs , JS ES6, Bootstrap responsive layouts<br>⚡ Fun fact <br>I enjoy learning alone, avoiding unnecessary attachments, but when I commit, I commit fully — loyalty beyond infinity.
+🛠 I’m currently working on <br>frontend development<br><br>🤝 I’m looking to collaborate on <br>e-commerce sites, portfolio designs, fully functional sites, blog sites<br><br>🙋‍♂️ I’m looking for help with <br>Mern stack and cybersecurity<br><br>🌱 I’m currently learning <br>backend development <br><br>💬 Ask me about <br>frontend designs , JS ES6, Bootstrap responsive layouts<br><br>⚡ Fun fact <br>I enjoy learning alone, avoiding unnecessary attachments, but when I commit, I commit fully — loyalty beyond infinity.
 
 
 ## 🌐 Socials:
