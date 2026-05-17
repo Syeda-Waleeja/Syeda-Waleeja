@@ -47,11 +47,11 @@ I am a passionate **WordPress Developer**, **Frontend Enthusiast**, and **Canva 
 
 ---
 
-### 📈 GitHub Stats
+### 📊 My GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=transparent&hide_border=true&title_color=00c4cc&text_color=ffffff&icon_color=21759b" alt="Waleeja's GitHub Stats" height="150" />
-</p>
+* 💻 **Working on:** Improving my frontend layout skills and building custom WordPress themes.
+* 🚀 **Fun Fact:** I love combining technical coding logic with aesthetic graphic design.
+* 📈 **Profile Views:** ![Views](https://komarev.com/badge/counter/github/?username=syeda-waleeja&color=00c4cc&style=flat-square)
 
 ---
 
