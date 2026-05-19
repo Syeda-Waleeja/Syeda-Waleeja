@@ -56,6 +56,45 @@ Building scalable web applications & custom WordPress solutions
 <tr>
 <td>
 
+# 🧰 Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+</p>
+
+---
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4"/>
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+</p>
+
+---
+
+### 🌐 CMS & Tools
+<p>
+  <img src="https://img.shields.io/badge/WordPress-111827?style=for-the-badge&logo=wordpress&logoColor=21759B"/>
+  <img src="https://img.shields.io/badge/Elementor-111827?style=for-the-badge&logo=elementor&logoColor=92003B"/>
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</p>
+
+---
+
+### 🚀 Currently Exploring
+<p>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Modern%20Web%20Apps-111827?style=for-the-badge"/>
+</p>
+
 ### 🎯 Focus
 
 </td>
