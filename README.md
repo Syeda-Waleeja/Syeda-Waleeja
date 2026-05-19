@@ -1,69 +1,85 @@
-<!-- HEADER CAPSULE -->
+<!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Syeda%20Waleeja&fontSize=35&fontColor=ffffff" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b132b,50:0f3460,100:00C9A7&text=Syeda%20Waleeja&fontSize=60&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20%20|%20%20Vibe%20Coder%20%20|%20%20WordPress%20Developer&descAlignY=58&descSize=22"
+  />
 </p>
 
-<!-- WAVE -->
+<!-- IDENTITY SECTION -->
+<h2>🧑‍💻 Identity</h2>
+
+<table>
+<tr>
+<td width="200px"><strong>👤 Name</strong></td>
+<td>Syeda Waleeja</td>
+</tr>
+
+<tr>
+<td><strong>💼 Role</strong></td>
+<td>Full Stack Developer | Vibe Coder | WordPress Developer</td>
+</tr>
+
+<tr>
+<td><strong>📈 Experience</strong></td>
+<td>Full Stack Development & WordPress Customization</td>
+</tr>
+
+<tr>
+<td><strong>🎯 Focus</strong></td>
+<td>Building scalable web applications & modern UI experiences</td>
+</tr>
+
+<tr>
+<td><strong>🚀 Mission</strong></td>
+<td>Turning ideas into clean, responsive & impactful digital products</td>
+</tr>
+</table>
+
+---
+
+# 👩‍💻 About Me
+
+- Passionate Full Stack Developer focused on clean UI & scalable apps  
+- Experienced in WordPress theme customization  
+- Love building modern, responsive & user-friendly websites  
+- Always learning and improving through real-world projects  
+
+---
+
+# 💼 Experience
+
+| Company | Role | Duration |
+|----------|------|----------|
+| **WorkBox SMC Pvt Ltd** | WordPress Theme Customization Developer | Feb 2024 – Jan 2025 |
+| **DevEntia** | Full Stack Developer | June 2025 – Dec 2025 |
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Link |
+|----------|-------------|------|
+| 💻 Portfolio Website | Personal portfolio showcasing skills & experience | [View](#) |
+| 📝 Todo List App | Simple task management app with local storage | [View](#) |
+| 🌡️ Temperature Converter | Celsius ↔ Fahrenheit converter | [View](#) |
+| 📊 BMI Calculator | Responsive BMI calculation tool | [View](#) |
+
+---
+
+# 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm a Developer
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,php,wordpress,git,github,mysql,tailwind" />
 </p>
 
-<!-- DYNAMIC TYPING -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Vibe+Coder;WordPress+Developer" />
-</p>
-
 ---
 
-## 👩‍💻 About Me
-- Full Stack Developer focused on clean UI & scalable web apps  
-- WordPress theme customization expert  
-- Passionate about modern and responsive web experiences  
-- Portfolio: https://syeda-waleeja-wahab.netlify.app  
-
----
-
-## 🎯 What I Do
-- Build responsive full-stack web applications  
-- Design clean and user-friendly interfaces  
-- Customize WordPress themes professionally  
-- Turn ideas into real-world digital solutions  
-
----
-
-## 💼 Experience
-
-| Company | Role | Duration | Responsibilities |
-|---------|------|----------|------------------|
-| **WorkBox SMC Pvt Ltd** | WordPress Theme Customization Developer | Feb 2024 – Jan 2025 | Customized WordPress themes, improved UI/UX, optimized website performance |
-| **DevEntia** | Full Stack Developer | June 2025 – Dec 2025 | Built full-stack applications, developed responsive UIs, worked with APIs & backend integration |
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 💻 Portfolio Website | Personal portfolio showcasing skills, experience & projects | WordPress, Elementor |
-| 📝 Todo List App | Task management app with local storage functionality | HTML, CSS, JavaScript |
-| 🌡️ Temperature Converter | Converts Celsius ↔ Fahrenheit in real-time | HTML, CSS, JavaScript |
-| 📊 BMI Calculator | Simple health calculator for BMI calculation | HTML, CSS, JavaScript |
-
----
-
-## 🛠️ Tech Stack
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,php,wordpress,git,github,tailwind,mysql" />
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syeda-Waleeja&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syeda-Waleeja&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Waleeja&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Waleeja&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -72,17 +88,28 @@
 
 ---
 
-## 📬 Connect With Me
+# 📬 Connect With Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Building clean, modern and scalable web experiences ⭐
+  ⭐ Building clean, modern & scalable digital experiences ⭐
 </p>
