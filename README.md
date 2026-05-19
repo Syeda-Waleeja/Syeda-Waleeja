@@ -3,7 +3,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,50:312e81,100:7c3aed&text=Syeda%20Waleeja%20Wahab&fontSize=58&fontColor=ffffff&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:312e81,100:7c3aed&text=Syeda%20Waleeja&fontSize=58&fontColor=ffffff&fontAlignY=38"/>
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ Mission    : Building clean, scalable & impactful digital products
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Syeda-Waleeja&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syeda-Waleeja&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
