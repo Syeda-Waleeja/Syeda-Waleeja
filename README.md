@@ -56,6 +56,18 @@ Building scalable web applications & custom WordPress solutions
 <tr>
 <td>
 
+#
+
+---
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4"/>
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+</p>
+
+---
 # 🧰 Tech Stack
 
 ### 🎨 Frontend
@@ -94,6 +106,8 @@ Building scalable web applications & custom WordPress solutions
   <img src="https://img.shields.io/badge/UI%2FUX%20Design-111827?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Modern%20Web%20Apps-111827?style=for-the-badge"/>
 </p>
+
+---
 
 ### 🎯 Focus
 
