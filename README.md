@@ -15,19 +15,11 @@
 
 ---
 
-<!-- ABOUT -->
 ## 👩‍💻 About Me
 - Full Stack Developer focused on clean UI & scalable web apps  
 - WordPress theme customization expert  
-- Passionate about modern, responsive web experiences  
+- Passionate about modern and responsive web experiences  
 - Portfolio: https://syeda-waleeja-wahab.netlify.app  
-
----
-
-<!-- ANIMATED SEPARATOR -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/animated-line.gif" width="100%" />
-</p>
 
 ---
 
@@ -35,73 +27,40 @@
 - Build responsive full-stack web applications  
 - Design clean and user-friendly interfaces  
 - Customize WordPress themes professionally  
-- Turn ideas into functional digital products  
+- Turn ideas into real-world digital solutions  
 
 ---
 
-<!-- EXPERIENCE -->
 ## 💼 Experience
 
-### 🏢 WorkBox SMC Pvt Ltd  
-**WordPress Theme Customization Developer**  
-📅 Feb 2024 – Jan 2025  
-- Customized responsive WordPress themes  
-- Improved UI/UX of client websites  
-- Worked on performance optimization  
-
----
-
-### 🏢 DevEntia  
-**Full Stack Developer**  
-📅 June 2025 – Dec 2025  
-- Developed full-stack web applications  
-- Built dynamic frontend interfaces  
-- API integration and backend logic  
-
----
-
-<!-- ANIMATED SEPARATOR -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/animated-line.gif" width="100%" />
-</p>
+| Company | Role | Duration | Responsibilities |
+|---------|------|----------|------------------|
+| **WorkBox SMC Pvt Ltd** | WordPress Theme Customization Developer | Feb 2024 – Jan 2025 | Customized WordPress themes, improved UI/UX, optimized website performance |
+| **DevEntia** | Full Stack Developer | June 2025 – Dec 2025 | Built full-stack applications, developed responsive UIs, worked with APIs & backend integration |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💻 Portfolio Website  
-Modern personal portfolio built using WordPress + Elementor  
-🔗 https://syeda-waleeja-wahab.netlify.app  
+- 💻 **Portfolio Website**  
+  WordPress + Elementor based personal portfolio  
+  🔗 https://syeda-waleeja-wahab.netlify.app  
+
+- 📝 **Todo List App**  
+  HTML, CSS & JavaScript based task manager  
+
+- 🌡️ **Temperature Converter**  
+  Celsius ↔ Fahrenheit conversion tool  
+
+- 📊 **BMI Calculator**  
+  Simple health tracking calculator  
 
 ---
 
-### 📝 Todo List App  
-Task management app built using HTML, CSS & JavaScript  
-
----
-
-### 🌡️ Temperature Converter  
-Celsius ↔ Fahrenheit converter using JavaScript  
-
----
-
-### 📊 BMI Calculator  
-Simple health calculator using HTML, CSS & JS  
-
----
-
-<!-- TECH STACK -->
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,php,wordpress,git,github,tailwind,mysql" />
-</p>
-
----
-
-<!-- ANIMATED SEPARATOR -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/animated-line.gif" width="100%" />
 </p>
 
 ---
@@ -131,5 +90,5 @@ Simple health calculator using HTML, CSS & JS
 ---
 
 <p align="center">
-  ⭐ Building modern web experiences with passion ⭐
+  ⭐ Building clean, modern and scalable web experiences ⭐
 </p>
