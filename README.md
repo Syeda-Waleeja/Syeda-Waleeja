@@ -82,12 +82,6 @@ Mission    : Building clean, scalable & impactful digital products
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syeda-Waleeja&show_icons=true&theme=tokyonight&hide_border=true" height="170em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Waleeja&layout=compact&theme=tokyonight&hide_border=true" height="170em"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syeda-Waleeja&theme=tokyonight&hide_border=true"/>
 </p>
 
