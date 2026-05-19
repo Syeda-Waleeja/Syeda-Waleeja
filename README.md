@@ -42,18 +42,12 @@
 
 ## 🚀 Featured Projects
 
-- 💻 **Portfolio Website**  
-  WordPress + Elementor based personal portfolio  
-  🔗 https://syeda-waleeja-wahab.netlify.app  
-
-- 📝 **Todo List App**  
-  HTML, CSS & JavaScript based task manager  
-
-- 🌡️ **Temperature Converter**  
-  Celsius ↔ Fahrenheit conversion tool  
-
-- 📊 **BMI Calculator**  
-  Simple health tracking calculator  
+| Project | Description | Tech |
+|--------|-------------|------|
+| 💻 Portfolio Website | Personal portfolio showcasing skills, experience & projects | WordPress, Elementor |
+| 📝 Todo List App | Task management app with local storage functionality | HTML, CSS, JavaScript |
+| 🌡️ Temperature Converter | Converts Celsius ↔ Fahrenheit in real-time | HTML, CSS, JavaScript |
+| 📊 BMI Calculator | Simple health calculator for BMI calculation | HTML, CSS, JavaScript |
 
 ---
 
