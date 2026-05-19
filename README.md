@@ -3,7 +3,11 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0f172a,50:312e81,100:7c3aed&text=Syeda%20Waleeja&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%20|%20%20Vibe%20Coder%20%20|%20%20WordPress%20Developer&descAlignY=58&descSize=22"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:312e81,100:7c3aed&text=Syeda%20Waleeja&fontSize=58&fontColor=ffffff&fontAlignY=38"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Vibe+Coder;WordPress+Developer"/>
 </p>
 
 ---
@@ -12,7 +16,7 @@
 
 ```yaml
 Name       : Syeda Waleeja
-Role       : Full Stack Developer | Vibe Coder | WordPress Developer
+Role       : Full Stack Web Developer | Vibe Coder | WordPress Developer
 Experience : Full Stack Development & WordPress Customization
 Focus      : Modern UI/UX + Responsive Web Experiences
 Mission    : Building clean, scalable & impactful digital products
@@ -22,164 +26,21 @@ Mission    : Building clean, scalable & impactful digital products
 
 # 💼 Experience
 
-<table>
-<tr>
-<th>Company</th>
-<th>Role</th>
-<th>Duration</th>
-<th>Responsibilities</th>
-</tr>
-
-<tr>
-<td>
-
-**WorkBox SMC Pvt Ltd**
-
-</td>
-
-<td>
-
-WordPress Theme Customization Developer
-
-</td>
-
-<td>
-
-Feb 2024 – Jan 2025
-
-</td>
-
-<td>
-
-• Customized WordPress themes  
-• Improved UI/UX of client websites  
-• Performance optimization
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-**DevEntia**
-
-</td>
-
-<td>
-
-Full Stack Developer
-
-</td>
-
-<td>
-
-June 2025 – Dec 2025
-
-</td>
-
-<td>
-
-• Developed full-stack web applications  
-• Built responsive UIs  
-• API integration & backend logic
-
-</td>
-</tr>
-
-</table>
+| Company | Role | Duration |
+|----------|------|----------|
+| **WorkBox SMC Pvt Ltd** | WordPress Theme Customization Developer | Feb 2024 – Jan 2025 |
+| **DevEntia** | Full Stack Developer | June 2025 – Dec 2025 |
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Link</th>
-</tr>
-
-<tr>
-<td>
-
-💻 Portfolio Website
-
-</td>
-
-<td>
-
-Personal portfolio showcasing skills, experience & projects
-
-</td>
-
-<td>
-
-[🔗 Visit](#)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-📝 Todo List App
-
-</td>
-
-<td>
-
-Task management app with local storage functionality
-
-</td>
-
-<td>
-
-[🔗 View](#)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-🌡️ Temperature Converter
-
-</td>
-
-<td>
-
-Converts Celsius ↔ Fahrenheit in real-time
-
-</td>
-
-<td>
-
-[🔗 View](#)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-📊 BMI Calculator
-
-</td>
-
-<td>
-
-Simple BMI calculation tool for health tracking
-
-</td>
-
-<td>
-
-[🔗 View](#)
-
-</td>
-</tr>
-
-</table>
+| Project | Description | Link |
+|----------|-------------|------|
+| 💻 Portfolio Website | Personal portfolio showcasing skills & projects | [🔗 Visit](#) |
+| 📝 Todo List App | Task management app with local storage | [🔗 View](#) |
+| 🌡️ Temperature Converter | Celsius ↔ Fahrenheit converter | [🔗 View](#) |
+| 📊 BMI Calculator | Responsive BMI calculation tool | [🔗 View](#) |
 
 ---
 
@@ -221,17 +82,13 @@ Simple BMI calculation tool for health tracking
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Syeda-Waleeja&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Waleeja&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Syeda-Waleeja&show_icons=true&theme=tokyonight&hide_border=true" height="170em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Waleeja&layout=compact&theme=tokyonight&hide_border=true" height="170em"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syeda-Waleeja&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syeda-Waleeja&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -261,7 +118,5 @@ Simple BMI calculation tool for health tracking
 ---
 
 <p align="center">
-
 ✨ Thanks for visiting! Let’s build something amazing together ✨
-
 </p>
