@@ -37,10 +37,10 @@ Mission    : Building clean, scalable & impactful digital products
 
 | Project | Description | Link |
 |----------|-------------|------|
-| 💻 Portfolio Website | Personal portfolio showcasing skills & projects | [🔗 Visit](#) |
-| 📝 Todo List App | Task management app with local storage | [🔗 View](#) |
-| 🌡️ Temperature Converter | Celsius ↔ Fahrenheit converter | [🔗 View](#) |
-| 📊 BMI Calculator | Responsive BMI calculation tool | [🔗 View](#) |
+| 💻 Portfolio Website | Personal portfolio showcasing skills & projects | [🔗 Visit](https://syeda-waleeja-wahab.netlify.app/) |
+| 📝 Todo List App | Task management app with local storage | [🔗 View](https://syeda-todo-list.netlify.app/) |
+| 🌡️ Temperature Converter | Celsius ↔ Fahrenheit converter | [🔗 View](https://temp-converter-tool.netlify.app/) |
+| 📊 BMI Calculator | Responsive BMI calculation tool | [🔗 View](https://smart-bmi-tool.netlify.app/) |
 
 ---
 
@@ -91,19 +91,19 @@ Mission    : Building clean, scalable & impactful digital products
 
 <p align="center">
 
-<a href="#">
+<a href="https://www.linkedin.com/in/syeda-waleeja-wahab-43ba833b2/">
 <img src="https://img.shields.io/badge/LinkedIn-312e81?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://github.com/Syeda-Waleeja">
 <img src="https://img.shields.io/badge/GitHub-312e81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://syeda-waleeja-wahab.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-312e81?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="mailto:syedawaleeja697@gmail.com">
 <img src="https://img.shields.io/badge/Email-312e81?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
