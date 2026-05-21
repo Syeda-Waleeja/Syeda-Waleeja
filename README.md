@@ -79,12 +79,6 @@ Mission    : Building clean, scalable & impactful digital products
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syeda-Waleeja&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 # 📬 Connect With Me
