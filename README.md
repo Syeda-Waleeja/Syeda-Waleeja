@@ -79,8 +79,6 @@ Mission    : Building clean, scalable & impactful digital products
 
 ---
 
----
-
 # 📬 Connect With Me
 
 <p align="center">
