@@ -10,7 +10,11 @@
 
 <br>
 
-I care about clean code, practical UI, and building things that actually work end to end.
+### 👋 About Me
+
+I'm a self-taught developer based in Peshawar, Pakistan, focused on building clean, functional web applications. I started with frontend and WordPress work, and I'm now going deeper into backend development — PHP, MySQL, and Laravel — with the goal of becoming a well-rounded full-stack engineer.
+
+I like projects that solve a real, specific problem rather than just looking good. Most of what I build starts as a practice exercise and turns into something I actually use or reference later.
 
 <hr style="border: 1px solid #6C63FF33;">
 
@@ -35,6 +39,24 @@ I care about clean code, practical UI, and building things that actually work en
 <img src="https://img.shields.io/badge/Figma-6C63FF?style=flat-square&logo=figma&logoColor=white" />
 </div>
 
+### 🌱 Development Journey
+
+| Year | Focus | Progress |
+|---|---|---|
+| 2025 | HTML, CSS, JavaScript, Bootstrap | ●●●●●●●●●○ |
+| 2026 | PHP & MySQL | ●●●●●●●●●○ |
+| 2026 | Object-Oriented PHP | ●●●●●●●○○○ |
+| 2026 | Laravel & REST APIs | ●●●○○○○○○○ |
+
+### 🎯 Goals for 2026
+
+- [x] Build practical projects with PHP & MySQL
+- [x] Get comfortable with Object-Oriented PHP
+- [ ] Learn Laravel and ship a project with it
+- [ ] Build and document a REST API from scratch
+- [ ] Contribute to an open-source project
+- [ ] Deploy a full-stack app end to end
+
 ### 📌 Featured Projects
 
 | Project | Description | Stack |
@@ -45,6 +67,19 @@ I care about clean code, practical UI, and building things that actually work en
 | [Backend_dev_journey](https://github.com/Syeda-Waleeja/Backend_dev_journey) | Backend practice with PHP | PHP |
 
 *(More in progress — check back soon.)*
+
+<hr style="border: 1px solid #6C63FF33;">
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Syeda-Waleeja&show_icons=true&theme=transparent&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=333333&ring_color=6C63FF" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Syeda-Waleeja&theme=default&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syeda-Waleeja&theme=minimal&hide_border=true&color=6C63FF&line=6C63FF&point=6C63FF" width="100%" />
+</div>
 
 <hr style="border: 1px solid #6C63FF33;">
 
