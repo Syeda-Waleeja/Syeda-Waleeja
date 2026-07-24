@@ -1,98 +1,109 @@
-<div align="center">
+<!-- ========================================= -->
+<!--               TOP BANNER                 -->
+<!-- ========================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Syeda%20Waleeja&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%26%20WordPress%20Developer&descAlignY=58&descSize=18" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:312e81,100:7c3aed&text=Syeda%20Waleeja&fontSize=58&fontColor=ffffff&fontAlignY=38"/>
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=460&lines=Building+clean%2C+practical+web+projects;Learning+Full-Stack+Development;PHP+%E2%80%A2+MySQL+%E2%80%A2+Laravel+%E2%80%A2+WordPress" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Vibe+Coder;WordPress+Developer"/>
+</p>
+
+---
+
+# 👩‍💻 Identity
+
+```yaml
+Name       : Syeda Waleeja
+Role       : Full Stack Web Developer | Vibe Coder | WordPress Developer
+Experience : Full Stack Development & WordPress Customization
+Focus      : Modern UI/UX + Responsive Web Experiences
+Mission    : Building clean, scalable & impactful digital products
+```
+
+---
+
+# 💼 Experience
+
+| Company | Role | Duration |
+|----------|------|----------|
+| **WorkBox SMC Pvt Ltd** | WordPress Theme Customization Developer | Feb 2024 – Jan 2025 |
+| **DevEntia** | Full Stack Developer | June 2025 – Dec 2025 |
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Link |
+|----------|-------------|------|
+| 💻 Portfolio Website | Personal portfolio showcasing skills & projects | [🔗 Visit](https://syeda-waleeja-wahab.netlify.app/) |
+| 📝 Todo List App | Task management app with local storage | [🔗 View](https://syeda-todo-list.netlify.app/) |
+| 🌡️ Temperature Converter | Celsius ↔ Fahrenheit converter | [🔗 View](https://temp-converter-tool.netlify.app/) |
+| 📊 BMI Calculator | Responsive BMI calculation tool | [🔗 View](https://smart-bmi-tool.netlify.app/) |
+
+---
+
+# 🧰 Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-1e1b4b?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-1e1b4b?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-1e1b4b?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-1e1b4b?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-1e1b4b?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-1e1b4b?style=for-the-badge&logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/PHP-1e1b4b?style=for-the-badge&logo=php&logoColor=777BB4"/>
+  <img src="https://img.shields.io/badge/MySQL-1e1b4b?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+</p>
+
+### 🌐 CMS & Tools
+<p>
+  <img src="https://img.shields.io/badge/WordPress-1e1b4b?style=for-the-badge&logo=wordpress&logoColor=21759B"/>
+  <img src="https://img.shields.io/badge/Elementor-1e1b4b?style=for-the-badge&logo=elementor&logoColor=92003B"/>
+  <img src="https://img.shields.io/badge/Git-1e1b4b?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</p>
+
+### 🚀 Currently Exploring
+<p>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-1e1b4b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-1e1b4b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Modern%20Web%20Apps-1e1b4b?style=for-the-badge"/>
+</p>
+
+---
+
+# 📬 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/syeda-waleeja-wahab-43ba833b2/">
+<img src="https://img.shields.io/badge/LinkedIn-312e81?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://github.com/Syeda-Waleeja">
+<img src="https://img.shields.io/badge/GitHub-312e81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br>
+<a href="https://syeda-waleeja-wahab.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-312e81?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
-### 👋 About Me
+<a href="mailto:syedawaleeja697@gmail.com">
+<img src="https://img.shields.io/badge/Email-312e81?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-I'm a self-taught developer based in Peshawar, Pakistan, focused on building clean, functional web applications. I started with frontend and WordPress work, and I'm now going deeper into backend development — PHP, MySQL, and Laravel — with the goal of becoming a well-rounded full-stack engineer.
+</p>
 
-I like projects that solve a real, specific problem rather than just looking good. Most of what I build starts as a practice exercise and turns into something I actually use or reference later.
+---
 
-<hr style="border: 1px solid #6C63FF33;">
+<p align="center">
+✨ Thanks for visiting! Let’s build something amazing together ✨
+</p>
 
-### 🧭 Currently
-
-- Building full-stack projects with **PHP + MySQL**
-- Learning **Laravel** and REST API design
-- Sharpening database design and backend fundamentals
-
-### 🛠 Tech Stack
-
-<div align="left">
-<img src="https://img.shields.io/badge/HTML5-6C63FF?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-6C63FF?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-6C63FF?style=flat-square&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-6C63FF?style=flat-square&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-6C63FF?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-6C63FF?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-6C63FF?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-6C63FF?style=flat-square&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-6C63FF?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-6C63FF?style=flat-square&logo=figma&logoColor=white" />
-</div>
-
-### 🌱 Development Journey
-
-| Year | Focus | Progress |
-|---|---|---|
-| 2025 | HTML, CSS, JavaScript, Bootstrap | ●●●●●●●●●○ |
-| 2026 | PHP & MySQL | ●●●●●●●●●○ |
-| 2026 | Object-Oriented PHP | ●●●●●●●○○○ |
-| 2026 | Laravel & REST APIs | ●●●○○○○○○○ |
-
-### 🎯 Goals for 2026
-
-- [x] Build practical projects with PHP & MySQL
-- [x] Get comfortable with Object-Oriented PHP
-- [ ] Learn Laravel and ship a project with it
-- [ ] Build and document a REST API from scratch
-- [ ] Contribute to an open-source project
-- [ ] Deploy a full-stack app end to end
-
-### 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Crud-UI](https://github.com/Syeda-Waleeja/Crud-UI) | A CRUD interface built with HTML & CSS, focused on layout and form design | HTML, CSS |
-| [Portfolio](https://github.com/Syeda-Waleeja/Portfolio) | Personal portfolio site | HTML, CSS, Bootstrap, JS |
-| [Frontend_dev_journey](https://github.com/Syeda-Waleeja/Frontend_dev_journey) | Frontend practice and UI experiments | HTML, CSS, JS |
-| [Backend_dev_journey](https://github.com/Syeda-Waleeja/Backend_dev_journey) | Backend practice with PHP | PHP |
-
-*(More in progress — check back soon.)*
-
-<hr style="border: 1px solid #6C63FF33;">
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Syeda-Waleeja&show_icons=true&theme=transparent&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=333333&ring_color=6C63FF" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Syeda-Waleeja&theme=default&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syeda-Waleeja&theme=minimal&hide_border=true&color=6C63FF&line=6C63FF&point=6C63FF" width="100%" />
-</div>
-
-<hr style="border: 1px solid #6C63FF33;">
-
-### 🌍 Connect
-
-<div align="left">
-<a href="https://syeda-waleeja-wahab.netlify.app"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/syeda-waleeja-wahab-43ba833b2/"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/SyedaWaleeja23"><img src="https://img.shields.io/badge/X-6C63FF?style=flat-square&logo=x&logoColor=white" /></a>
-</div>
-
-<br>
-
-<sub>📍 Peshawar, Pakistan</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
