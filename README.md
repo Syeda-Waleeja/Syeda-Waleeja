@@ -17,9 +17,9 @@
 ```yaml
 Name       : Syeda Waleeja
 Role       : Full Stack Web Developer | Vibe Coder | WordPress Developer
-Experience : Full Stack Development & WordPress Customization
-Focus      : Modern UI/UX + Responsive Web Experiences
-Mission    : Building clean, scalable & impactful digital products
+Experience : Frontend & Backend Development | REST APIs | MySQL Databases
+Focus      : Scalable Web Applications & Responsive UI/UX
+Mission    : Building secure, high-performance & user-focused web solutions
 ```
 
 ---
@@ -38,9 +38,11 @@ Mission    : Building clean, scalable & impactful digital products
 | Project | Description | Link |
 |----------|-------------|------|
 | 💻 Portfolio Website | Personal portfolio showcasing skills & projects | [🔗 Visit](https://syeda-waleeja-wahab.netlify.app/) |
-| 📝 Todo List App | Task management app with local storage | [🔗 View](https://syeda-todo-list.netlify.app/) |
 | 🌡️ Temperature Converter | Celsius ↔ Fahrenheit converter | [🔗 View](https://temp-converter-tool.netlify.app/) |
 | 📊 BMI Calculator | Responsive BMI calculation tool | [🔗 View](https://smart-bmi-tool.netlify.app/) |
+| 🛠️ CRUD Manager | Complete CRUD system with PHP & MySQL | [🔗 View](https://php-crud-system.infinityfree.io/?i=1) |
+| 🛡️ Login & Registration System | Secure authentication with PHP, MySQL & Sessions | [🔗 View](https://login-system.infinityfree.io/?i=1) |
+| 📰 News Management System | Complete news portal with admin dashboard | [🔗 View](https://nms.infinityfree.io/) |
 
 ---
 
